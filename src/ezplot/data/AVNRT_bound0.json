@@ -1,0 +1,73 @@
+{
+  "num_patterns": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1
+  ],
+  "param_space": [
+    51180997414264015816662489891,
+    1.2483170101040004e+27,
+    2.447680411968628e+25,
+    3.5514290390306215e+23,
+    3.551429037845802e+23,
+    3.551429037845802e+23,
+    3.5514290438385126e+23,
+    2.632651369652356e+23,
+    1.7845489184102115e+20,
+    1.7845892091556096e+20,
+    1.2544848790181693e+20
+  ],
+  "time_usage": [
+    0.020943880081176758,
+    0.01547694206237793,
+    0.1273202896118164,
+    0.10710835456848145,
+    0.10126399993896484,
+    0.1333920955657959,
+    2.071563482284546,
+    3.229957342147827,
+    41.016589403152466,
+    80.19009566307068
+  ],
+  "path": [
+    [
+      "RV-HisV"
+    ],
+    [
+      "RV-HisV-HisH"
+    ],
+    [
+      "RV-HisV-HisH-AV-FP-HisA"
+    ],
+    [
+      "RV-HisV-HisH-AV-FP-HisA-RV-HisV"
+    ],
+    [
+      "RV-HisV-HisH-AV-FP-HisA-RV-HisV-HisH"
+    ],
+    [
+      "RV-HisV-HisH-AV-FP-HisA-RV-HisV-HisH-AV-FP-HisA"
+    ],
+    [
+      "RV-HisV-HisH-AV-FP-HisA-RV-HisV-HisH-AV-FP-HisA-SP-SP-AV-HisH",
+      "RV-HisV-HisH-AV-FP-HisA-RV-HisV-HisH-AV-FP-HisA-SP-SP-AV-FP-HisH",
+      "RV-HisV-HisH-AV-FP-HisA-RV-HisV-HisH-AV-FP-HisA-SP-SP-HisA"
+    ],
+    [
+      "RV-HisV-HisH-AV-FP-HisA-RV-HisV-HisH-AV-FP-HisA-SP-SP-AV-FP-HisH-HisA"
+    ],
+    [
+      "RV-HisV-HisH-AV-FP-HisA-RV-HisV-HisH-AV-FP-HisA-SP-SP-AV-FP-HisH-HisA-HisV"
+    ],
+    [
+      "RV-HisV-HisH-AV-FP-HisA-RV-HisV-HisH-AV-FP-HisA-SP-SP-AV-FP-HisH-HisA-HisV-SP-AV-RV-FP-HisH"
+    ]
+  ]
+}
